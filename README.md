@@ -33,12 +33,12 @@ It is a React application that allows users to create, edit and interact with po
 ### ❤️ Likes
 - Like / unlike posts
 - Prevent multiple likes from the same user
-- Likes persist across page reloads using localStorage
+
 
 ### 💬 Comments
 - Add comments to posts
 - View comments in a modal
-- Comments persist across page reloads using localStorage
+
 
 ### 🔍 Search & Filtering
 - Real-time search by:
